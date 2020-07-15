@@ -14,9 +14,8 @@ autor-atividade: Professor de Tecnologia da Educação
 autor-escola: Colégio Visconde de Porto Seguro
 autor-mensagem: Pensando em explorar os sensores e motores criei esta construção com uma montagem simples., ... 🙂🙂🙂🙂
 
-video: instagram
-video-link: https://www.instagram.com/p/CCgMrBWlj3W/embed
-video-largura: 330
-video-altura: 508
+video: facebook
+video-link: https://www.facebook.com/100005084101145/videos/pcb.1552715944907861/1552715768241212/
+
 ---
 
