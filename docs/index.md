@@ -1,22 +1,22 @@
 ---
 layout: basicoPT-V01
-titulo: Futebol SPIKE Prime
-descricao: Aplicação do que foi estudado nas formações sobre o novo kit Lego Spike Prime. Fiz a construção onde o Jogador azul e o Jogador vermelho disputam uma partida de pênaltis e ganha aquele que fizer 3 gols!! Ao chegar na pontuação é tocado um som e a peça com a cor do vencedor é indicada.
+titulo: Cancela com Sensores SPIKE Prime
+descricao:Os alunos poderão explorar os sensores e criatividade montando o veículo livremente. Ao aproximar-se da cancela o sensor detecta e libera o "ticket" (Bloco pink) o motorista guarda este "ticket" para liberar a saída (Sensor de cor).
 
-usuario: criatividade-digital
-repositorio: futebol-spike-prime
-arquivo: Futebol
+usuario: Jose-Carlos-Junior
+repositorio: Cancela-Com-Sensores
+arquivo: cancela
 
 autor: José Carlos Junior
 autor-imagem: https://spibr.criatividade.digital/participantes/josecarlosjunior.jpg
 autor-link: https://spibr.criatividade.digital/participantes/josecarlosjunior.html
 autor-atividade: Professor de Tecnologia da Educação
 autor-escola: Colégio Visconde de Porto Seguro
-autor-mensagem: Podem explorar a vontade! Ajustar, acrescentar, usar como ideia para montar outra coisa, trocar motor, sensor, ... 🙂🙂🙂🙂
+autor-mensagem: Pensando em explorar os sensores e motores criei esta construção com uma montagem simples, ... 🙂🙂🙂🙂
 
 video: instagram
 video-link: https://www.instagram.com/p/CBtZQGIF8k9/embed
 video-largura: 508
 video-altura: 330
 ---
-Aplicação do que foi estudado nas formações sobre o novo kit LEGO SPIKE Prime. Fiz a construção onde o Jogador azul e o Jogador vermelho disputam uma partida de pênaltis e ganha aquele que fizer 3 gols!! Ao chegar na pontuação é tocado um som e a peça com a cor do vencedor é indicada... 🤩💞
+
