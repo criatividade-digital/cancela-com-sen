@@ -4,7 +4,7 @@ titulo: Cancela com Sensores SPIKE Prime
 descricao: Os alunos poderão explorar os sensores e criatividade montando o veículo livremente. Ao aproximar-se da cancela o sensor detecta e libera o "ticket" (Bloco pink) o motorista guarda este "ticket" para liberar a saída (Sensor de cor).
 
 usuario: Jose-Carlos-Junior
-repositorio: Cancela-Com-Sensores
+repositorio: cancela-com-sensores
 arquivo: cancela
 
 autor: José Carlos Junior
