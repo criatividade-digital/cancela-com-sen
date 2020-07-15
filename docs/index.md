@@ -19,4 +19,4 @@ video-link: https://www.instagram.com/p/CCgMrBWlj3W/embed
 altura: 508
 largura: 330
 ---
-Versão: 1.1
+Versão: 1.2
