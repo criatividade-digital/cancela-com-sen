@@ -12,10 +12,10 @@ autor-imagem: https://spibr.criatividade.digital/participantes/josecarlosjunior.
 autor-link: https://spibr.criatividade.digital/participantes/josecarlosjunior.html
 autor-atividade: Professor de Tecnologia da Educação
 autor-escola: Colégio Visconde de Porto Seguro
-autor-mensagem: Pensando em explorar os sensores e motores criei esta construção com uma montagem simples, ... 🙂🙂🙂🙂
+autor-mensagem: Pensando em explorar os sensores e motores criei esta construção com uma montagem simples., ... 🙂🙂🙂🙂
 
 video: instagram
-video-link: https://www.instagram.com/p/CBtZQGIF8k9/embed
+video-link: https://www.instagram.com/p/CCgMrBWlj3W/embed
 video-largura: 508
 video-altura: 330
 ---
