@@ -16,6 +16,5 @@ autor-mensagem: Pensando em explorar os sensores e motores criei esta construç�
 
 video: facebook
 video-link: https://www.facebook.com/100005084101145/videos/pcb.1552715944907861/1552715768241212/
-
 ---
-
+Versão: 1.0
