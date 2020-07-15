@@ -134,10 +134,10 @@ style="width:90%; height:500px;" frameborder="0"></iframe>
 				<h2 class="section-heading text-center mb-4">Programação</h2>
 				<img src="" alt="asd" id="temp" />
 				<script type="text/javascript">
-					var loader = new ZipLoader('https://raw.githubusercontent.com/{{page.usuario}}/{{page.repositorio}}/master/Futebol.llsp');
+					var loader = new ZipLoader('https://raw.githubusercontent.com/{{page.usuario}}/{{page.repositorio}}/master/{{page.arquivo}}.llsp');
 					(function($) {
 							$(document).ready(function() {
-									$("#temp").attr('src', loader.loadImage('https://raw.githubusercontent.com/{{page.usuario}}/{{page.repositorio}}/master/Futebol.llsp://icon.svg'));
+									$("#temp").attr('src', loader.loadImage('https://raw.githubusercontent.com/{{page.usuario}}/{{page.repositorio}}/master/{{page.arquivo}}.llsp://icon.svg'));
 							});
 					})(jQuery)
 			</script>
