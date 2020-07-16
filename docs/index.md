@@ -19,4 +19,8 @@ video-link: https://www.instagram.com/p/CCgMrBWlj3W/embed
 video-altura: 508
 video-largura: 508
 ---
-Versão: 1.10
+Versão: 1.11
+
+				<h2 class="section-heading text-center mb-5">Montagem</h2>
+				<iframe src="https://docs.google.com/gview?url=https://github.com/criatividade-digital/cancela-com-sen/blob/master/cancela.pdf&embedded=true" 
+style="width:90%; height:500px;" frameborder="0"></iframe>
